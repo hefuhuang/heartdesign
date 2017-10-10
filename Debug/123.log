@@ -1,0 +1,22 @@
+﻿生成启动时间为 2017/9/16 0:34:46。
+     1>项目“E:\micrisift vasual c++\heartdesign\123.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VISUAL 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MD /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\123.pch" /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt 123Dlg.cpp
+         123Dlg.cpp
+     1>e:\micrisift vasual c++\heartdesign\123dlg.cpp(215): warning C4101: “xl”: 未引用的局部变量
+     1>e:\micrisift vasual c++\heartdesign\123dlg.cpp(284): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\micrisift vasual c++\heartdesign\123dlg.cpp(423): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>e:\micrisift vasual c++\heartdesign\123dlg.cpp(427): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>e:\micrisift vasual c++\heartdesign\123dlg.cpp(449): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>e:\micrisift vasual c++\heartdesign\123dlg.cpp(453): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+       Link:
+         D:\VISUAL 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\123.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\VISUAL 2013\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:".\Debug\123.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\123.lib" /MACHINE:X86 /SAFESEH .\Debug\123.res
+         .\Debug\123.obj
+         .\Debug\123Dlg.obj
+         .\Debug\StdAfx.obj
+         123.vcxproj -> E:\micrisift vasual c++\heartdesign\.\Debug\123.exe
+     1>已完成生成项目“E:\micrisift vasual c++\heartdesign\123.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:25.28
